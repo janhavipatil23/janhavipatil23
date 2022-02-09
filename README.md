@@ -4,7 +4,7 @@ Welcome to my portfolio. I am a Software Developer/ Data Scientist. I have relev
 
 🧐 About:
 
- I’m currently looking for a full time opportunity as a Software Engineer 
+ I’m currently looking for a full time / co-op opportunity as a Software Engineer or Machine Learnibg Engineer 
  
 🥅 2022 Goals: Learn and Practice!!
 
