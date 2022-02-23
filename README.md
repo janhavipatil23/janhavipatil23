@@ -16,15 +16,20 @@ Linkedin : https://www.linkedin.com/in/janhaviipatil/
 
 Languages and Tools:
 
-Programming Languages:                Python (Advanced),  R (Advanced), JAVA (Proficient), SQL (Proficient+), Matlab
+Programming Languages:                
+Python (Advanced),  R (Advanced), JAVA (Proficient), SQL (Proficient+), Matlab
 
-Framework/Libraries: 	                OpenCV, PyTorch, Tensorflow, Keras, Pandas, Matplotlib, Numpy, Scikit-learn
+Framework/Libraries: 	                
+OpenCV, PyTorch, Tensorflow, Keras, Pandas, Matplotlib, Numpy, Scikit-learn
 
-Cloud/CICD: 	                         AWS (VPC,IAM,DynamoDB,RDS,Aurora,S3,EC2,Lambda,Cognito,AppSync, CloudFormation),Terraform,Serverless,GitHub Actions,Docker
+Cloud/CICD: 	                         
+AWS (VPC,IAM,DynamoDB,RDS,Aurora,S3,EC2,Lambda,Cognito,AppSync, CloudFormation),Terraform,Serverless,GitHub Actions,Docker
 
-Data Analysis:	                       powerBI, Tableau, Looker, Apache Kafka, Apache Airflow, Spark, Splunk
+Data Analysis:	                       
+powerBI, Tableau, Looker, Apache Kafka, Apache Airflow, Spark, Splunk
 
-Tools:	                               GIT, SVN, BitBucket, AzureML, JIRA, Confluence, IntelliJ, Jupyter
+Tools:	                               
+GIT, SVN, BitBucket, AzureML, JIRA, Confluence, IntelliJ, Jupyter
             
 
 
