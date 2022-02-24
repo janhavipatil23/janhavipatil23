@@ -14,22 +14,24 @@ Linkedin : https://www.linkedin.com/in/janhaviipatil/
 
 📌 My forté👇
 
-Languages and Tools:
+Programming:    
+Java, Python, JavaScript, PHP, Shell Scripting
 
-Programming Languages:                
-Python (Advanced),  R (Advanced), JAVA (Proficient), SQL (Proficient+), Matlab
+Web Technologies:    
+RESTful APIs, HTML, CSS, Bootstrap, jQuery, Vue, AJAX, JWT
 
-Framework/Libraries: 	                
-OpenCV, PyTorch, Tensorflow, Keras, Pandas, Matplotlib, Numpy, Scikit-learn
+Cloud Technologies:    
+AWS (Virtual Private Cloud, CloudFormation, Code Deploy, S3, API Gateway, Load Balancers
 
-Cloud/CICD: 	                         
-AWS (VPC,IAM,DynamoDB,RDS,Aurora,S3,EC2,Lambda,Cognito,AppSync, CloudFormation),Terraform,Serverless,GitHub Actions,Docker
+Databases:    
+SQL, MySQL, Amazon RDS, Amazon DynamoDB, MongoDB, Terraform,GitHub Actions  
 
-Data Analysis:	                       
-powerBI, Tableau, Looker, Apache Kafka, Apache Airflow, Spark, Splunk
+Tools:                                        
+Git, SVN, BitBucket, JIRA, Confluence, IntelliJ, Jupyter
 
-Tools:	                               
-GIT, SVN, BitBucket, AzureML, JIRA, Confluence, IntelliJ, Jupyter
+Other Tools:    
+CI/CD, Linux, Docker, Postman, Webpack, Apache HTTP Server
+
             
 
 
