@@ -31,7 +31,7 @@ ETL, Databases, Business Intelligence, Data Gathering, Analysis, Data Visualizat
 
 
 Databases:    
-SQL, MySQL, Amazon RDS, Amazon DynamoDB, MongoDB, Terraform,GitHub Actions  
+SQL, MySQL, Amazon RDS, Amazon DynamoDB, MongoDB, Terraform, GitHub Actions  
 
 Tools:                                        
 Git, SVN, BitBucket, JIRA, Confluence, IntelliJ, Jupyter
