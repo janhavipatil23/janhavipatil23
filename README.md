@@ -21,7 +21,7 @@ Web Technologies:
 RESTful APIs, HTML, CSS, Bootstrap, jQuery, Vue, AJAX, JWT
 
 Cloud Technologies:    
-AWS (Virtual Private Cloud, CloudFormation, Code Deploy, S3, API Gateway, Load Balancers
+AWS - Virtual Private Cloud, CloudFormation, Code Deploy, S3, API Gateway, Load Balancers
 
 Data Science:    
 OpenCV, Tensorflow, Keras, Pandas, Matplotlib, Numpy, Scikit-learn, NLTK, Spark ML, MLOps. MLFlow
