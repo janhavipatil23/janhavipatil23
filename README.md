@@ -1,6 +1,6 @@
 Hi there, I'm Janhavi! 
 
-Welcome to my portfolio. I am a Software Developer/ Data Scientist. I have relevant work experience in the machine learning development domain.
+Welcome to my portfolio. I am a Software Developer and a Machine Learning Engineer. I have relevant work experience in the machine learning development domain.
 
 🧐 About:
 
