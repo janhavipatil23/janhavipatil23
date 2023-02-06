@@ -1,10 +1,5 @@
 Hi there, I'm Janhavi! 
 
-Welcome to my portfolio. I am a Software Developer and a Machine Learning Engineer. I have relevant work experience in the machine learning development domain.
-
-🧐 About:
-
- I’m currently looking for a full time / co-op opportunity as a Software Engineer or Machine Learning Engineer 
  
 🥅 2022 Goals: Learn and Practice!!
 
