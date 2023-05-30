@@ -1,7 +1,7 @@
 Hi there, I'm Janhavi! 
 
  
-🥅 2022 Goals: Learn and Practice!!
+🥅 2023 Goals: Learn and Practice!!
 
 📫 Reach me at patil.janh@northeastern.edu
 
